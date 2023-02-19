@@ -12,4 +12,4 @@
     }
 
     document.forms[0].onsubmit = enviar();
-</script>
+<script>
