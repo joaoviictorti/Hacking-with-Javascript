@@ -7,7 +7,7 @@
 	<h4>Hacking techniques using javascript</h4>
 </div>
 
-📖 Documentação
+📖 Documentation
 -----
 Hello everyone, this report is dedicated to demonstrating some techniques using Javascript
 
