@@ -9,12 +9,11 @@
 
 📖 Documentação
 -----
-Olá pessoal, esse reporsitório tem uma dedicação de demonstrar algumas técnicas utilizando Javascript
+Hello everyone, this report is dedicated to demonstrating some techniques using Javascript
 
-- README.md - Nesse arquivo vai conter descrição de como funcionar a vulnerabilidade e como explorar a mesma.
-- Em cada pasta vai conter a vulnerabilidade específica e como injetar ela de várias formas.
+- Each folder will contain the specific vulnerability and how to inject it in various ways using Javascript.
 
-🧐 Referências
+🧐 References
 -----
 - https://www.pentesteracademy.com/
 - https://github.com/boku7/XSS-Clientside-Attacks
